@@ -1,1 +1,3 @@
-"FROM alpine:latest" 
+FROM alpine:latest
+
+CMD ["echo", "Hola desde Docker"]
